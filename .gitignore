@@ -1,0 +1,17 @@
+.idea
+*.swp
+*.do
+*.iml
+*~
+/.*
+.DS_Store
+*.pyc
+*.pyo
+cover/
+*.egg-info
+**/.tox
+**/coverage.xml
+**/junit.xml
+**/.coverage
+**/test-results*
+venv/
